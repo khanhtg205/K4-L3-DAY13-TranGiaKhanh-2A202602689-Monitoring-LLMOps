@@ -4,13 +4,13 @@
 
 ## 1. Thông tin học viên
 
-- **Họ và tên:**
-- **MSSV:**
+- **Họ và tên:** Trần Gia Khánh
+- **MSSV:** 2A20260289
 - **Lớp:** K4-L3B
-- **Repository URL:**
-- **Commit SHA cuối:**
-- **Challenge ID:**
-- **Tên project Langfuse cá nhân:** `day13-k4-l3b-<MSSV>`
+- **Repository URL:** https://github.com/khanhtg205/K4-L3-DAY13-TranGiaKhanh-2A202602689-Monitoring-LLMOps
+- **Commit SHA cuối:** 4e2650b
+- **Challenge ID:** 30055
+- **Tên project Langfuse cá nhân:** `day13-k4-l3b-2A20260289`
 
 ## 2. Evidence index
 
